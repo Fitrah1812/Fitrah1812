@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fitrah1812
+- 👋 Hi, I’m Fitrah Arie Ramadhan
 - 👀 I’m interested in Machine Learning, Web Developer, Data Analyst
 - 🌱 I’m currently learning Informatics Institut Teknologi Sepuluh Nopember
 - 💞️ I’m looking to collaborate on github, Linkedln, gitlab
